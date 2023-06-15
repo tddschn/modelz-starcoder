@@ -1,8 +1,8 @@
-# Modelz StarCoder
+# Modelz MusicGen
 
 [StarCoder](https://huggingface.co/bigcode/starcoder) is a language model (LM) trained on source code and natural language text. Its training data incorporates more that 80 different programming languages as well as text extracted from GitHub issues and commits and from notebooks.
 
-This repository contains the code (Dockerfile, [`build.envd`](https://envd.tensorchord.ai/guide/getting-started.html)) for deploying StarCoder on [Modelz](https://docs.modelz.ai/).
+This repository contains the code (Dockerfile, [`build.envd`](https://envd.tensorchord.ai/guide/getting-started.html)) for deploying MusicGen on [Modelz](https://docs.modelz.ai/).
 
 ## Getting Started
 
