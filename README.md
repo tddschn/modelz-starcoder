@@ -1,6 +1,6 @@
 # Modelz StarCoder
 
-[StarCoder](https://huggingface.co/bigcode/starcoder) is a large-scale pre-trained language model for open-domain chatbot, which is open-sourced by Tsinghua University.
+[StarCoder](https://huggingface.co/bigcode/starcoder) is a language model (LM) trained on source code and natural language text. Its training data incorporates more that 80 different programming languages as well as text extracted from GitHub issues and commits and from notebooks.
 
 This repository contains the code (Dockerfile, [`build.envd`](https://envd.tensorchord.ai/guide/getting-started.html)) for deploying StarCoder on [Modelz](https://docs.modelz.ai/).
 
